@@ -50,7 +50,7 @@
 	</dependencies>
 
 	<build>
-	<finalName>springbootdemoproject</finalName>
+	<finalName>SpringBootDemoProject</finalName>
 	
 		<plugins>
 			<plugin>
